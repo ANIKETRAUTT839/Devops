@@ -392,7 +392,7 @@ Final Report
 
 ---
 
-# ☁️ Assignment 7 — AWS IAM & EC2
+# ☁️ Assignment 7 to 11 — AWS IAM & EC2
 
 AWS CLI exercises covering:
 
